@@ -1,0 +1,8 @@
+{
+    "id": "ab550099-4a10-44ed-a102-a587cf36dfb0",
+    "name": "Hashtag Plugin",
+    "description": "A plugin that detects hashtag in task title and apply labels automatically",
+    "author": "Michael Lu",
+    "image": "icon.jpg",
+    "main": "index.js"
+}

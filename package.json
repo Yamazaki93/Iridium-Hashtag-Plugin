@@ -1,0 +1,21 @@
+{
+  "name": "iridium-hashtag-plugin",
+  "version": "0.1.0",
+  "description": "A plugin for Iridium that detects hashtag in task title and apply labels automatically",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yamazaki93/Iridium-Hashtag-Plugin.git"
+  },
+  "author": "Michael Lu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yamazaki93/Iridium-Hashtag-Plugin/issues"
+  },
+  "homepage": "https://github.com/Yamazaki93/Iridium-Hashtag-Plugin#readme",
+  "dependencies": {
+  }
+}
