@@ -3,6 +3,6 @@
     "name": "Hashtag Plugin",
     "description": "A plugin that detects hashtag in task title and apply labels automatically",
     "author": "Michael Lu",
-    "image": "icon.jpg",
+    "image": "icon.png",
     "main": "index.js"
 }
